@@ -22,7 +22,7 @@ const masto = await login({
 
 let idx = 0;
 
-const names = await AsyncIterator.from(masto.v1.accounts.listStatuses(mastodonId), {limit:30})
+const names = await AsyncIterator.from(masto.v1.accounts.listStatuses(mastodonId), {limit:70})
   .flatten()
   .toArray();
 
@@ -31,11 +31,13 @@ for (const post of names) {
   const foundPost = mastodonPosts.find (p => p.id === post.id);
   if (!foundPost) {
     idx+=1;
-    if (idx === 1) {
-      console.log (JSON.stringify(post,null,2))
-    }
     console.log(`found new post ${post.id}`);
     mastodonPosts.push(post);
+  } else {
+    if (foundPost.favouritesCount !== post.favouritesCount) {
+      console.log (`updating favourite count for ${post.id} to ${post.favouritesCount}`);
+      foundPost.favouritesCount = post.favouritesCount;
+    }
   }
 }
 
