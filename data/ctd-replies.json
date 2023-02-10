@@ -17262,5 +17262,818 @@
     "emojis": [],
     "card": null,
     "poll": null
+  },
+  {
+    "id": "109834061995185950",
+    "createdAt": "2023-02-09T09:26:23.868Z",
+    "inReplyToId": "109834025270946179",
+    "inReplyToAccountId": "109267931328838341",
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/CTD/statuses/109834061995185950",
+    "url": "https://mastodon.social/@CTD/109834061995185950",
+    "repliesCount": 1,
+    "reblogsCount": 0,
+    "favouritesCount": 0,
+    "editedAt": null,
+    "content": "<p><span class=\"h-card\"><a href=\"https://social.sgawolf.com/@simon\" class=\"u-url mention\">@<span>simon</span></a></span> many hours deep into Tactics Ogre Reborn. Looking forward to many of those too, especially Octopath Traveller II.</p>",
+    "reblog": null,
+    "application": {
+      "name": "Ivory for iOS",
+      "website": "https://tapbots.com/"
+    },
+    "account": {
+      "id": "250835",
+      "username": "CTD",
+      "acct": "CTD",
+      "displayName": "CTD",
+      "locked": false,
+      "bot": false,
+      "discoverable": false,
+      "group": false,
+      "createdAt": "2017-11-20T00:00:00.000Z",
+      "note": "<p>Came to London from NZ in 1983 for 3 months work... Still in London. Ramble on about books, boardgames &amp; basic nonsense. GameCenter/Twitch: Gleptoportus BGG: Christo</p>",
+      "url": "https://mastodon.social/@CTD",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/250/835/original/d18d2a614b372abf.jpeg",
+      "avatarStatic": "https://files.mastodon.social/accounts/avatars/000/250/835/original/d18d2a614b372abf.jpeg",
+      "header": "https://files.mastodon.social/accounts/headers/000/250/835/original/00fc563302a65494.jpeg",
+      "headerStatic": "https://files.mastodon.social/accounts/headers/000/250/835/original/00fc563302a65494.jpeg",
+      "followersCount": 120,
+      "followingCount": 378,
+      "statusesCount": 462,
+      "lastStatusAt": "2023-02-09",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": []
+    },
+    "mediaAttachments": [],
+    "mentions": [
+      {
+        "id": "109267931328838341",
+        "username": "simon",
+        "url": "https://social.sgawolf.com/@simon",
+        "acct": "simon@social.sgawolf.com"
+      }
+    ],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "109834151256216887",
+    "createdAt": "2023-02-09T09:49:05.881Z",
+    "inReplyToId": "109834093801050721",
+    "inReplyToAccountId": "109332705622231432",
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/CTD/statuses/109834151256216887",
+    "url": "https://mastodon.social/@CTD/109834151256216887",
+    "repliesCount": 1,
+    "reblogsCount": 0,
+    "favouritesCount": 1,
+    "editedAt": null,
+    "content": "<p><span class=\"h-card\"><a href=\"https://sauropods.win/@Twarda\" class=\"u-url mention\">@<span>Twarda</span></a></span> wait! What? I missed that. Those were great fun on the 3DS…</p>",
+    "reblog": null,
+    "application": {
+      "name": "Ivory for iOS",
+      "website": "https://tapbots.com/"
+    },
+    "account": {
+      "id": "250835",
+      "username": "CTD",
+      "acct": "CTD",
+      "displayName": "CTD",
+      "locked": false,
+      "bot": false,
+      "discoverable": false,
+      "group": false,
+      "createdAt": "2017-11-20T00:00:00.000Z",
+      "note": "<p>Came to London from NZ in 1983 for 3 months work... Still in London. Ramble on about books, boardgames &amp; basic nonsense. GameCenter/Twitch: Gleptoportus BGG: Christo</p>",
+      "url": "https://mastodon.social/@CTD",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/250/835/original/d18d2a614b372abf.jpeg",
+      "avatarStatic": "https://files.mastodon.social/accounts/avatars/000/250/835/original/d18d2a614b372abf.jpeg",
+      "header": "https://files.mastodon.social/accounts/headers/000/250/835/original/00fc563302a65494.jpeg",
+      "headerStatic": "https://files.mastodon.social/accounts/headers/000/250/835/original/00fc563302a65494.jpeg",
+      "followersCount": 120,
+      "followingCount": 378,
+      "statusesCount": 462,
+      "lastStatusAt": "2023-02-09",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": []
+    },
+    "mediaAttachments": [],
+    "mentions": [
+      {
+        "id": "109332705622231432",
+        "username": "Twarda",
+        "url": "https://sauropods.win/@Twarda",
+        "acct": "Twarda@sauropods.win"
+      }
+    ],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "109834093801050721",
+    "createdAt": "2023-02-09T09:34:17.000Z",
+    "inReplyToId": null,
+    "inReplyToAccountId": null,
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://sauropods.win/users/Twarda/statuses/109834093052361340",
+    "url": "https://sauropods.win/@Twarda/109834093052361340",
+    "repliesCount": 2,
+    "reblogsCount": 0,
+    "favouritesCount": 1,
+    "editedAt": null,
+    "content": "<p>This is like dreams come true to me<br><a href=\"https://sauropods.win/tags/nintendo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nintendo</span></a> <a href=\"https://sauropods.win/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gaming</span></a> <a href=\"https://sauropods.win/tags/nintendodirect\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nintendodirect</span></a></p>",
+    "reblog": null,
+    "account": {
+      "id": "109332705622231432",
+      "username": "Twarda",
+      "acct": "Twarda@sauropods.win",
+      "displayName": "Twarda",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "createdAt": "2022-11-12T00:00:00.000Z",
+      "note": "<p>Freelance artist &amp; gamedev with a biology background.<br>Released Zniw Adventure, now developing the sequel. Working with Colors Live.<br>Likes pokemon and digimon.<br>Dinosaur &amp; vpet enthusiast.</p>",
+      "url": "https://sauropods.win/@Twarda",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/332/705/622/231/432/original/0336f399c73a77d0.png",
+      "avatarStatic": "https://files.mastodon.social/cache/accounts/avatars/109/332/705/622/231/432/original/0336f399c73a77d0.png",
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/332/705/622/231/432/original/7d3360529f2df845.png",
+      "headerStatic": "https://files.mastodon.social/cache/accounts/headers/109/332/705/622/231/432/original/7d3360529f2df845.png",
+      "followersCount": 504,
+      "followingCount": 37,
+      "statusesCount": 272,
+      "lastStatusAt": "2023-02-09",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "ArtStation",
+          "value": "<a href=\"https://www.artstation.com/twarda\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">artstation.com/twarda</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/Twarda8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/Twarda8</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Colors Live",
+          "value": "<a href=\"https://www.colorslive.com/artist/Twarda\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">colorslive.com/artist/Twarda</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Zid & Zniw",
+          "value": "<a href=\"https://zidandzniw.pl/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">zidandzniw.pl/</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        }
+      ]
+    },
+    "mediaAttachments": [
+      {
+        "id": "109834093354783450",
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/109/834/093/354/783/450/original/6f18787506a9500e.png",
+        "previewUrl": "https://files.mastodon.social/cache/media_attachments/files/109/834/093/354/783/450/small/6f18787506a9500e.png",
+        "remoteUrl": "https://cdn.masto.host/sauropodswin/media_attachments/files/109/834/059/244/294/192/original/281bd2e340b041fb.png",
+        "previewRemoteUrl": null,
+        "textUrl": null,
+        "meta": {
+          "focus": {
+            "x": 0,
+            "y": 0
+          },
+          "original": {
+            "width": 1180,
+            "height": 666,
+            "size": "1180x666",
+            "aspect": 1.7717717717717718
+          },
+          "small": {
+            "width": 639,
+            "height": 361,
+            "size": "639x361",
+            "aspect": 1.7700831024930748
+          }
+        },
+        "description": "Keyart of Etrian Odyssey Origins Collection",
+        "blurhash": "ULJ*059e9]-L#*o#K5%K0LRoNLOZx@RRnmrs"
+      },
+      {
+        "id": "109834093452768446",
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/109/834/093/452/768/446/original/86cc71e0042892f7.png",
+        "previewUrl": "https://files.mastodon.social/cache/media_attachments/files/109/834/093/452/768/446/small/86cc71e0042892f7.png",
+        "remoteUrl": "https://cdn.masto.host/sauropodswin/media_attachments/files/109/834/059/443/902/573/original/149da399bcca0f2c.png",
+        "previewRemoteUrl": null,
+        "textUrl": null,
+        "meta": {
+          "focus": {
+            "x": 0,
+            "y": 0
+          },
+          "original": {
+            "width": 1177,
+            "height": 667,
+            "size": "1177x667",
+            "aspect": 1.7646176911544227
+          },
+          "small": {
+            "width": 637,
+            "height": 361,
+            "size": "637x361",
+            "aspect": 1.7645429362880887
+          }
+        },
+        "description": "Screenshot from Etrian Odyssey Origins Collection",
+        "blurhash": "UTA,nR*^bxOZ+_wfW=WnOYR*bFozW-bbWXe:"
+      },
+      {
+        "id": "109834093608023039",
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/109/834/093/608/023/039/original/d38e9bdd8f152589.png",
+        "previewUrl": "https://files.mastodon.social/cache/media_attachments/files/109/834/093/608/023/039/small/d38e9bdd8f152589.png",
+        "remoteUrl": "https://cdn.masto.host/sauropodswin/media_attachments/files/109/834/059/513/714/616/original/8610ac8def34048d.png",
+        "previewRemoteUrl": null,
+        "textUrl": null,
+        "meta": {
+          "focus": {
+            "x": 0,
+            "y": 0
+          },
+          "original": {
+            "width": 1179,
+            "height": 666,
+            "size": "1179x666",
+            "aspect": 1.7702702702702702
+          },
+          "small": {
+            "width": 639,
+            "height": 361,
+            "size": "639x361",
+            "aspect": 1.7700831024930748
+          }
+        },
+        "description": "Screenshot from Etrian Odyssey Origins Collection",
+        "blurhash": "UL865aXUZftmyZaKembJN]n#aJR,t,obM{f$"
+      },
+      {
+        "id": "109834093690568846",
+        "type": "image",
+        "url": "https://files.mastodon.social/cache/media_attachments/files/109/834/093/690/568/846/original/4a2bab6726e7f7e2.png",
+        "previewUrl": "https://files.mastodon.social/cache/media_attachments/files/109/834/093/690/568/846/small/4a2bab6726e7f7e2.png",
+        "remoteUrl": "https://cdn.masto.host/sauropodswin/media_attachments/files/109/834/059/698/943/803/original/20ad2cdb167689e6.png",
+        "previewRemoteUrl": null,
+        "textUrl": null,
+        "meta": {
+          "focus": {
+            "x": 0,
+            "y": 0
+          },
+          "original": {
+            "width": 1180,
+            "height": 666,
+            "size": "1180x666",
+            "aspect": 1.7717717717717718
+          },
+          "small": {
+            "width": 639,
+            "height": 361,
+            "size": "639x361",
+            "aspect": 1.7700831024930748
+          }
+        },
+        "description": "Screenshot from Etrian Odyssey Origins Collection",
+        "blurhash": "UfDd#Cs%cHS%MHj[RNayD$bws;nNXnbbsljF"
+      }
+    ],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "nintendo",
+        "url": "https://mastodon.social/tags/nintendo"
+      },
+      {
+        "name": "gaming",
+        "url": "https://mastodon.social/tags/gaming"
+      },
+      {
+        "name": "nintendodirect",
+        "url": "https://mastodon.social/tags/nintendodirect"
+      }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "109834025270946179",
+    "createdAt": "2023-02-09T09:16:42.000Z",
+    "inReplyToId": null,
+    "inReplyToAccountId": null,
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://social.sgawolf.com/users/simon/statuses/109834023927349070",
+    "url": "https://social.sgawolf.com/@simon/109834023927349070",
+    "repliesCount": 2,
+    "reblogsCount": 1,
+    "favouritesCount": 2,
+    "editedAt": null,
+    "content": "<p>Apart from Resident Evil 4 and Star Wars Jedi: Survivor, it looks like 2023 might see the Switch being my primary console for a while. I'm looking forward to playing Advance Wars 1+2, Metroid Prime Remastered, Octopath Traveller II, Fire Emblem Engage, Triangle Strategy, Mario + Rabbids Spart of Hope, and Tactics Ogre: Reborn. And the GB and GBA games, particularly Golden Sun and the Zelda games.</p><p>People think getting old sucks but disposable income for gaming is a big plus.</p>",
+    "reblog": null,
+    "account": {
+      "id": "109267931328838341",
+      "username": "simon",
+      "acct": "simon@social.sgawolf.com",
+      "displayName": "Simon Wolf",
+      "locked": false,
+      "bot": false,
+      "discoverable": false,
+      "group": false,
+      "createdAt": "2022-11-01T00:00:00.000Z",
+      "note": "<p>Co-owner of Mindme. Linux-using (NixOS with Sway) Elixir developer who also tinkers with Python. Worried about the environment, fascinated by livable cities and would love to be able to live car-free. Dreams about building and living in an eco-friendly house using all the best techniques and technologies available.</p>",
+      "url": "https://social.sgawolf.com/@simon",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/267/931/328/838/341/original/ea0895f33b50941b.png",
+      "avatarStatic": "https://files.mastodon.social/cache/accounts/avatars/109/267/931/328/838/341/original/ea0895f33b50941b.png",
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/267/931/328/838/341/original/7cf83a264aaaee61.jpg",
+      "headerStatic": "https://files.mastodon.social/cache/accounts/headers/109/267/931/328/838/341/original/7cf83a264aaaee61.jpg",
+      "followersCount": 479,
+      "followingCount": 421,
+      "statusesCount": 578,
+      "lastStatusAt": "2023-02-09",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Work",
+          "value": "<a href=\"https://mindme.care\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mindme.care</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://blog.sgawolf.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">blog.sgawolf.com</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/sgaw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/sgaw</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "GitHub",
+          "value": "<a href=\"https://github.com/simon-wolf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/simon-wolf</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2023-02-09T01:02:16.746+00:00"
+        }
+      ]
+    },
+    "mediaAttachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "109833565298601403",
+    "createdAt": "2023-02-09T07:20:04.874Z",
+    "inReplyToId": null,
+    "inReplyToAccountId": null,
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/Edent/statuses/109833565298601403",
+    "url": "https://mastodon.social/@Edent/109833565298601403",
+    "repliesCount": 5,
+    "reblogsCount": 0,
+    "favouritesCount": 7,
+    "editedAt": null,
+    "content": "<p>Morning Moomins!<br />Going to spend the day trying to install Home Assistant to control my increasingly fragmented smarthome.</p><p>Of course, this will necessitate finding one of my many Raspberries Pi…</p>",
+    "reblog": null,
+    "application": {
+      "name": "Fedilab",
+      "website": "https://fedilab.app"
+    },
+    "account": {
+      "id": "7112",
+      "username": "Edent",
+      "acct": "Edent",
+      "displayName": "Terence Eden",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "createdAt": "2016-11-01T00:00:00.000Z",
+      "note": "<p>Longer hair than you.<br />Work in <a href=\"https://mastodon.social/tags/CyberSecurity\" class=\"mention hashtag\" rel=\"tag\">#<span>CyberSecurity</span></a>.<br />Got the ⏻ symbol into <a href=\"https://mastodon.social/tags/Unicode\" class=\"mention hashtag\" rel=\"tag\">#<span>Unicode</span></a>.<br />Open Standards / Source / Data geek.<br />Known as <span class=\"h-card\"><a href=\"https://mastodon.social/@Edent\" class=\"u-url mention\">@<span>Edent</span></a></span> on most social platforms.<br />Studying for an MSc in using the Metaverse for analytics.<br />Bit obsessed with <a href=\"https://mastodon.social/tags/SolarPower\" class=\"mention hashtag\" rel=\"tag\">#<span>SolarPower</span></a> but not quite a <a href=\"https://mastodon.social/tags/SolarPunk\" class=\"mention hashtag\" rel=\"tag\">#<span>SolarPunk</span></a>.</p>",
+      "url": "https://mastodon.social/@Edent",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/007/112/original/37df032a5951b96c.jpg",
+      "avatarStatic": "https://files.mastodon.social/accounts/avatars/000/007/112/original/37df032a5951b96c.jpg",
+      "header": "https://files.mastodon.social/accounts/headers/000/007/112/original/9982f60fe9e60550.jpeg",
+      "headerStatic": "https://files.mastodon.social/accounts/headers/000/007/112/original/9982f60fe9e60550.jpeg",
+      "followersCount": 4224,
+      "followingCount": 627,
+      "statusesCount": 5414,
+      "lastStatusAt": "2023-02-09",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "Location",
+          "value": "London, UK",
+          "verifiedAt": null
+        },
+        {
+          "name": "Contact",
+          "value": "<a href=\"https://edent.tel/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">edent.tel/</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2022-05-04T16:47:47.550+00:00"
+        },
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://shkspr.mobi/blog\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">shkspr.mobi/blog</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2022-05-04T16:51:16.145+00:00"
+        },
+        {
+          "name": "Pronouns",
+          "value": "He/Him/♂/男",
+          "verifiedAt": null
+        }
+      ]
+    },
+    "mediaAttachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "109830824013482008",
+    "createdAt": "2023-02-08T19:42:56.189Z",
+    "inReplyToId": null,
+    "inReplyToAccountId": null,
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/birchtree/statuses/109830824013482008",
+    "url": "https://mastodon.social/@birchtree/109830824013482008",
+    "repliesCount": 2,
+    "reblogsCount": 2,
+    "favouritesCount": 6,
+    "editedAt": null,
+    "content": "<p>I asked Midjourney to turn this Gran Turismo screenshot into a Studio Ghibli movie and it kinda nailed it. </p><p>Ethical quandaries aside (which I know are pretty sketchy to many), this tech is wild to play with. I don&#39;t think I&#39;ve been blown away by tech like this since the original iPhone.</p>",
+    "reblog": null,
+    "application": {
+      "name": "Web",
+      "website": null
+    },
+    "account": {
+      "id": "21286",
+      "username": "birchtree",
+      "acct": "birchtree",
+      "displayName": "Matt Birchler",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "createdAt": "2017-01-26T00:00:00.000Z",
+      "note": "<p>Designer at NMI and YouTuber on…well, you know where</p>",
+      "url": "https://mastodon.social/@birchtree",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/021/286/original/7825fa7c9e5f37a3.jpeg",
+      "avatarStatic": "https://files.mastodon.social/accounts/avatars/000/021/286/original/7825fa7c9e5f37a3.jpeg",
+      "header": "https://files.mastodon.social/accounts/headers/000/021/286/original/0df52d9aaff0e0d2.jpg",
+      "headerStatic": "https://files.mastodon.social/accounts/headers/000/021/286/original/0df52d9aaff0e0d2.jpg",
+      "followersCount": 1768,
+      "followingCount": 180,
+      "statusesCount": 2387,
+      "lastStatusAt": "2023-02-09",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "A Better Computer",
+          "value": "<a href=\"https://www.youtube.com/c/ABetterComputer\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/c/ABetterComputer</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Birchtree",
+          "value": "<a href=\"https://birchtree.me\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">birchtree.me</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2022-11-11T15:47:09.892+00:00"
+        },
+        {
+          "name": "Quick Reviews",
+          "value": "<a href=\"https://quickreviews.app/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">quickreviews.app/</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2022-11-27T16:03:22.428+00:00"
+        }
+      ]
+    },
+    "mediaAttachments": [
+      {
+        "id": "109830808869399963",
+        "type": "image",
+        "url": "https://files.mastodon.social/media_attachments/files/109/830/808/869/399/963/original/580ee690ac6f1b94.jpeg",
+        "previewUrl": "https://files.mastodon.social/media_attachments/files/109/830/808/869/399/963/small/580ee690ac6f1b94.jpeg",
+        "remoteUrl": null,
+        "previewRemoteUrl": null,
+        "textUrl": null,
+        "meta": {
+          "original": {
+            "width": 1920,
+            "height": 1080,
+            "size": "1920x1080",
+            "aspect": 1.7777777777777777
+          },
+          "small": {
+            "width": 640,
+            "height": 360,
+            "size": "640x360",
+            "aspect": 1.7777777777777777
+          },
+          "focus": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "description": "Screenshot of a Formula 1 car racing at sunset in Gran Turismo 7.",
+        "blurhash": "U$KBaUM~X4WF_4xVNHR*o#f*oMoeNGogofjv"
+      },
+      {
+        "id": "109830809440644929",
+        "type": "image",
+        "url": "https://files.mastodon.social/media_attachments/files/109/830/809/440/644/929/original/b25f2b3bac030d56.png",
+        "previewUrl": "https://files.mastodon.social/media_attachments/files/109/830/809/440/644/929/small/b25f2b3bac030d56.png",
+        "remoteUrl": null,
+        "previewRemoteUrl": null,
+        "textUrl": null,
+        "meta": {
+          "original": {
+            "width": 1024,
+            "height": 1024,
+            "size": "1024x1024",
+            "aspect": 1
+          },
+          "small": {
+            "width": 480,
+            "height": 480,
+            "size": "480x480",
+            "aspect": 1
+          },
+          "focus": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "description": "A cartoon version of an F1 car driving down a small town road. Below it is a second shot of an old man wearing a racing suit and staring into the distance.",
+        "blurhash": "UcG[p301-oxZx^nhs8WYS#RkRQWX-=D%s:oL"
+      }
+    ],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "109834580436171252",
+    "createdAt": "2023-02-09T11:38:13.000Z",
+    "inReplyToId": "109834513879074394",
+    "inReplyToAccountId": "250835",
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://social.sgawolf.com/users/simon/statuses/109834580360121641",
+    "url": "https://social.sgawolf.com/@simon/109834580360121641",
+    "repliesCount": 1,
+    "reblogsCount": 0,
+    "favouritesCount": 1,
+    "editedAt": null,
+    "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@CTD\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CTD</span></a></span> They remind me a bit of the original Bards Tale and Dungeon Master games. I used to have pads of squared paper with hand-drawn maps on them for those.</p>",
+    "reblog": null,
+    "account": {
+      "id": "109267931328838341",
+      "username": "simon",
+      "acct": "simon@social.sgawolf.com",
+      "displayName": "Simon Wolf",
+      "locked": false,
+      "bot": false,
+      "discoverable": false,
+      "group": false,
+      "createdAt": "2022-11-01T00:00:00.000Z",
+      "note": "<p>Co-owner of Mindme. Linux-using (NixOS with Sway) Elixir developer who also tinkers with Python. Worried about the environment, fascinated by livable cities and would love to be able to live car-free. Dreams about building and living in an eco-friendly house using all the best techniques and technologies available.</p>",
+      "url": "https://social.sgawolf.com/@simon",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/267/931/328/838/341/original/ea0895f33b50941b.png",
+      "avatarStatic": "https://files.mastodon.social/cache/accounts/avatars/109/267/931/328/838/341/original/ea0895f33b50941b.png",
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/267/931/328/838/341/original/7cf83a264aaaee61.jpg",
+      "headerStatic": "https://files.mastodon.social/cache/accounts/headers/109/267/931/328/838/341/original/7cf83a264aaaee61.jpg",
+      "followersCount": 479,
+      "followingCount": 420,
+      "statusesCount": 583,
+      "lastStatusAt": "2023-02-09",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Work",
+          "value": "<a href=\"https://mindme.care\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mindme.care</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://blog.sgawolf.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">blog.sgawolf.com</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/sgaw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/sgaw</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "GitHub",
+          "value": "<a href=\"https://github.com/simon-wolf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/simon-wolf</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2023-02-09T01:02:16.746+00:00"
+        }
+      ]
+    },
+    "mediaAttachments": [],
+    "mentions": [
+      {
+        "id": "250835",
+        "username": "CTD",
+        "url": "https://mastodon.social/@CTD",
+        "acct": "CTD"
+      }
+    ],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "109834452840471527",
+    "createdAt": "2023-02-09T11:05:42.000Z",
+    "inReplyToId": "109834173008507983",
+    "inReplyToAccountId": "250835",
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://social.sgawolf.com/users/simon/statuses/109834452485244273",
+    "url": "https://social.sgawolf.com/@simon/109834452485244273",
+    "repliesCount": 1,
+    "reblogsCount": 0,
+    "favouritesCount": 0,
+    "editedAt": null,
+    "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@CTD\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CTD</span></a></span> Thank you and I saw that but I don’t know anything about the original games. But it’s on my ‘possibles’ list.</p>",
+    "reblog": null,
+    "account": {
+      "id": "109267931328838341",
+      "username": "simon",
+      "acct": "simon@social.sgawolf.com",
+      "displayName": "Simon Wolf",
+      "locked": false,
+      "bot": false,
+      "discoverable": false,
+      "group": false,
+      "createdAt": "2022-11-01T00:00:00.000Z",
+      "note": "<p>Co-owner of Mindme. Linux-using (NixOS with Sway) Elixir developer who also tinkers with Python. Worried about the environment, fascinated by livable cities and would love to be able to live car-free. Dreams about building and living in an eco-friendly house using all the best techniques and technologies available.</p>",
+      "url": "https://social.sgawolf.com/@simon",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/267/931/328/838/341/original/ea0895f33b50941b.png",
+      "avatarStatic": "https://files.mastodon.social/cache/accounts/avatars/109/267/931/328/838/341/original/ea0895f33b50941b.png",
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/267/931/328/838/341/original/7cf83a264aaaee61.jpg",
+      "headerStatic": "https://files.mastodon.social/cache/accounts/headers/109/267/931/328/838/341/original/7cf83a264aaaee61.jpg",
+      "followersCount": 479,
+      "followingCount": 420,
+      "statusesCount": 583,
+      "lastStatusAt": "2023-02-09",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Work",
+          "value": "<a href=\"https://mindme.care\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mindme.care</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://blog.sgawolf.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">blog.sgawolf.com</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/sgaw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/sgaw</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "GitHub",
+          "value": "<a href=\"https://github.com/simon-wolf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/simon-wolf</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2023-02-09T01:02:16.746+00:00"
+        }
+      ]
+    },
+    "mediaAttachments": [],
+    "mentions": [
+      {
+        "id": "250835",
+        "username": "CTD",
+        "url": "https://mastodon.social/@CTD",
+        "acct": "CTD"
+      }
+    ],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+  },
+  {
+    "id": "109834408892189989",
+    "createdAt": "2023-02-09T10:54:36.000Z",
+    "inReplyToId": "109834167105179384",
+    "inReplyToAccountId": "250835",
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://sauropods.win/users/Twarda/statuses/109834408829934205",
+    "url": "https://sauropods.win/@Twarda/109834408829934205",
+    "repliesCount": 1,
+    "reblogsCount": 0,
+    "favouritesCount": 1,
+    "editedAt": null,
+    "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@CTD\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CTD</span></a></span> Yeah! It seems like these are direct remasters of the originals (unlike Untold games).<br>It's super cool since I don't play on 3DS and my DS is aged; I can finally experience all 3 first games. (where will I find time for that lol)</p><p>It also comes on Steam, so I suppose Deck support is likely??</p>",
+    "reblog": null,
+    "account": {
+      "id": "109332705622231432",
+      "username": "Twarda",
+      "acct": "Twarda@sauropods.win",
+      "displayName": "Twarda",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "createdAt": "2022-11-12T00:00:00.000Z",
+      "note": "<p>Freelance artist &amp; gamedev with a biology background.<br>Released Zniw Adventure, now developing the sequel. Working with Colors Live.<br>Likes pokemon and digimon.<br>Dinosaur &amp; vpet enthusiast.</p>",
+      "url": "https://sauropods.win/@Twarda",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/332/705/622/231/432/original/0336f399c73a77d0.png",
+      "avatarStatic": "https://files.mastodon.social/cache/accounts/avatars/109/332/705/622/231/432/original/0336f399c73a77d0.png",
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/332/705/622/231/432/original/7d3360529f2df845.png",
+      "headerStatic": "https://files.mastodon.social/cache/accounts/headers/109/332/705/622/231/432/original/7d3360529f2df845.png",
+      "followersCount": 584,
+      "followingCount": 45,
+      "statusesCount": 279,
+      "lastStatusAt": "2023-02-09",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "ArtStation",
+          "value": "<a href=\"https://www.artstation.com/twarda\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">artstation.com/twarda</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/Twarda8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/Twarda8</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Colors Live",
+          "value": "<a href=\"https://www.colorslive.com/artist/Twarda\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">colorslive.com/artist/Twarda</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Zid & Zniw",
+          "value": "<a href=\"https://zidandzniw.pl/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">zidandzniw.pl/</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        }
+      ]
+    },
+    "mediaAttachments": [],
+    "mentions": [
+      {
+        "id": "250835",
+        "username": "CTD",
+        "url": "https://mastodon.social/@CTD",
+        "acct": "CTD"
+      }
+    ],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
   }
 ]
