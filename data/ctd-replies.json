@@ -18631,5 +18631,73 @@
     "emojis": [],
     "card": null,
     "poll": null
+  },
+  {
+    "id": "109847626840310873",
+    "createdAt": "2023-02-11T18:56:02.000Z",
+    "inReplyToId": null,
+    "inReplyToAccountId": null,
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://twit.social/users/glennf/statuses/109847626543901027",
+    "url": "https://twit.social/@glennf/109847626543901027",
+    "repliesCount": 1,
+    "reblogsCount": 6,
+    "favouritesCount": 8,
+    "editedAt": "2023-02-11T21:44:09.000Z",
+    "content": "<p>Shift Happens, a book about keyboards by Marcin Wichary, is now:</p><p>#1 all-time tech nonfiction book on Kickstarter by funding level <br>#3 non-fiction book<br>#24 among all publishing projects. (And remember, Brandon Sanderson is at over $40 million on the top of that list…)</p><p>And we still have 25 days to go.</p><p><a href=\"https://www.kickstarter.com/projects/mwichary/shift-happens?ref=baa4j6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kickstarter.com/projects/mwich</span><span class=\"invisible\">ary/shift-happens?ref=baa4j6</span></a></p><p><a href=\"https://twit.social/@glennf/109837070423126728\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twit.social/@glennf/1098370704</span><span class=\"invisible\">23126728</span></a></p>",
+    "reblog": null,
+    "account": {
+      "id": "109292791986066871",
+      "username": "glennf",
+      "acct": "glennf@twit.social",
+      "displayName": "Glenn Fleishman",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "createdAt": "2022-04-28T00:00:00.000Z",
+      "note": "<p>Glenn is a freelance technology journalist who, since the 1990s, has written for the New York Times, Wired, and the Economist, among others. He’s the editor of Shift Happens. He contributes regularly to Macworld and TidBITS, writes books in the Take Control Books series, and is an independent printing and type historian specializing in comics history. A former Amazon employee (1996–97) who used to eat burritos with Bezos, Glenn is more interestingly a two-time Jeopardy! winner.</p>",
+      "url": "https://twit.social/@glennf",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/292/791/986/066/871/original/aab28f2a6b7d31dc.jpeg",
+      "avatarStatic": "https://files.mastodon.social/cache/accounts/avatars/109/292/791/986/066/871/original/aab28f2a6b7d31dc.jpeg",
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/292/791/986/066/871/original/71b501ddc5f0967a.jpg",
+      "headerStatic": "https://files.mastodon.social/cache/accounts/headers/109/292/791/986/066/871/original/71b501ddc5f0967a.jpg",
+      "followersCount": 10762,
+      "followingCount": 1564,
+      "statusesCount": 3461,
+      "lastStatusAt": "2023-02-12",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://glog.glennf.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">glog.glennf.com</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2023-02-12T02:10:37.092+00:00"
+        },
+        {
+          "name": "Website",
+          "value": "<a href=\"https://glennf.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">glennf.com</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Editor, Shift Happens",
+          "value": "<a href=\"https://shifthappens.site/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">shifthappens.site/</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "How-to books",
+          "value": "<a href=\"https://takecontrolbooks.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">takecontrolbooks.com/</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        }
+      ]
+    },
+    "mediaAttachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
   }
 ]

@@ -27,6 +27,12 @@ const names = await AsyncIterator.from(masto.v1.accounts.listStatuses(mastodonId
   .toArray();
 
 
+  const today = new Date
+  const recentDate = new Date(Number(today) - 96 * 3600 * 1000)
+
+  console.log(recentDate);
+
+
 for (const post of names) {
   const foundPost = mastodonPosts.find (p => p.id === post.id);
   if (!foundPost) {
@@ -44,7 +50,9 @@ for (const post of names) {
       foundPost.contextCheckCount = 0;
     }
 
-    if (foundPost.contextCheckCount < 2) {
+    const foundPostDate = new Date(foundPost.createdAt);
+
+    if (foundPost.contextCheckCount < 1 || foundPostDate >= recentDate) {
       const context = await masto.v1.statuses.fetchContext(post.id);
       foundPost.context = context;
       foundPost.contextCheckCount += 1;
