@@ -22,7 +22,7 @@ const masto = await login({
 
 let idx = 0;
 
-const names = await AsyncIterator.from(masto.v1.accounts.listStatuses(mastodonId), {limit:20})
+const names = await AsyncIterator.from(masto.v1.accounts.listStatuses(mastodonId, {limit: 20}))
   .flatten()
   .toArray();
 
@@ -44,7 +44,7 @@ for (const post of names) {
       foundPost.contextCheckCount = 0;
     }
 
-    if (foundPost.contextCheckCount < 1) {
+    if (foundPost.contextCheckCount < 2) {
       const context = await masto.v1.statuses.fetchContext(post.id);
       foundPost.context = context;
       foundPost.contextCheckCount += 1;
