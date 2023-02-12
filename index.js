@@ -22,7 +22,7 @@ const masto = await login({
 
 let idx = 0;
 
-const names = await AsyncIterator.from(masto.v1.accounts.listStatuses(mastodonId), {limit:70})
+const names = await AsyncIterator.from(masto.v1.accounts.listStatuses(mastodonId), {limit:20})
   .flatten()
   .toArray();
 
@@ -32,14 +32,30 @@ for (const post of names) {
   if (!foundPost) {
     idx+=1;
     console.log(`found new post ${post.id}`);
+    post.contextCheckCount = 0;
     mastodonPosts.push(post);
   } else {
     if (foundPost.favouritesCount !== post.favouritesCount) {
       console.log (`updating favourite count for ${post.id} to ${post.favouritesCount}`);
       foundPost.favouritesCount = post.favouritesCount;
     }
+
+    if (!foundPost.contextCheckCount) {
+      foundPost.contextCheckCount = 0;
+    }
+
+    if (foundPost.contextCheckCount < 1) {
+      const context = await masto.v1.statuses.fetchContext(post.id);
+      foundPost.context = context;
+      foundPost.contextCheckCount += 1;
+      if (foundPost.context.descendants.length > 0) {
+        console.log (`existing post ${foundPost.id} has ${foundPost.context.descendants.length} replies`);
+        fs.writeFileSync("./data/ctd-toots.json", JSON.stringify(mastodonPosts,null,2));
+      }
+    }
   }
 }
+console.log('looking at all posts');
 
 for (const toot of mastodonPosts) {
   if (toot.inReplyToId && toot.inReplyToId !== null) {
@@ -53,6 +69,10 @@ for (const toot of mastodonPosts) {
       mastodonReplies.push(reply);
     }
   } else {
+
+    if (!toot.contextCheckCount) {
+      toot.contextCheckCount = 0;
+    }
 
     if (!toot.context) {
       const context = await masto.v1.statuses.fetchContext(toot.id);
