@@ -25516,5 +25516,88 @@
     "emojis": [],
     "card": null,
     "poll": null
+  },
+  {
+    "id": "109977343778104627",
+    "createdAt": "2023-03-06T16:44:35.000Z",
+    "inReplyToId": null,
+    "inReplyToAccountId": null,
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://isfeeling.social/users/matt/statuses/109977342810936916",
+    "url": "https://isfeeling.social/@matt/109977342810936916",
+    "repliesCount": 1,
+    "reblogsCount": 0,
+    "favouritesCount": 0,
+    "editedAt": null,
+    "content": "<p>For my fellow Lego + Lord of the Rings fans, this designer video for the new Riveldell set will not help you resist a truly excessive expense.</p><p>I may have ordered it already, and as agreed between me and my wife, this will be the last big thing I buy until the new iPhone this fall 😂</p><p><a href=\"https://www.youtube.com/watch?v=q0TZ4JNvUPc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=q0TZ4JNvUP</span><span class=\"invisible\">c</span></a></p>",
+    "reblog": null,
+    "account": {
+      "id": "109827057618641879",
+      "username": "matt",
+      "acct": "matt@isfeeling.social",
+      "displayName": "Matt Birchler",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "createdAt": "2023-02-08T00:00:00.000Z",
+      "note": "<p>Designer at NMI and YouTuber on…well, you know where</p>",
+      "url": "https://isfeeling.social/@matt",
+      "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/827/057/618/641/879/original/9b226f539d73a3ef.jpg",
+      "avatarStatic": "https://files.mastodon.social/cache/accounts/avatars/109/827/057/618/641/879/original/9b226f539d73a3ef.jpg",
+      "header": "https://files.mastodon.social/cache/accounts/headers/109/827/057/618/641/879/original/9c93ac259a4e8c16.jpeg",
+      "headerStatic": "https://files.mastodon.social/cache/accounts/headers/109/827/057/618/641/879/original/9c93ac259a4e8c16.jpeg",
+      "followersCount": 1919,
+      "followingCount": 178,
+      "statusesCount": 609,
+      "lastStatusAt": "2023-03-07",
+      "emojis": [],
+      "fields": [
+        {
+          "name": "YouTube",
+          "value": "<a href=\"https://www.youtube.com/c/ABetterComputer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/c/ABetterComputer</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "Birchtree",
+          "value": "<a href=\"https://birchtree.me\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">birchtree.me</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2023-03-06T19:46:55.819+00:00"
+        },
+        {
+          "name": "Quick Reviews",
+          "value": "<a href=\"https://quickreviews.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">quickreviews.app</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2023-03-06T19:46:56.174+00:00"
+        },
+        {
+          "name": "90s Kid Gaming",
+          "value": "<a href=\"https://www.youtube.com/@ninetieskidgaming\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/@ninetieskidgaming</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        }
+      ]
+    },
+    "mediaAttachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": {
+      "url": "https://www.youtube.com/watch?v=q0TZ4JNvUPc",
+      "title": "LEGO LORD OF THE RINGS RIVENDELL | Designer Video",
+      "description": "",
+      "type": "video",
+      "authorName": "LEGO",
+      "authorUrl": "https://www.youtube.com/@LEGO",
+      "providerName": "YouTube",
+      "providerUrl": "https://www.youtube.com/",
+      "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/q0TZ4JNvUPc?feature=oembed\" frameborder=\"0\" allowfullscreen=\"\" title=\"LEGO LORD OF THE RINGS RIVENDELL | Designer Video\"></iframe>",
+      "width": 200,
+      "height": 113,
+      "image": "https://files.mastodon.social/cache/preview_cards/images/056/154/257/original/830f71f07437b7bb.jpg",
+      "embedUrl": "",
+      "blurhash": "UGGbYFO@_4%h8|XSt7sm0LaKRiV@%fVsRjbH"
+    },
+    "poll": null
   }
 ]
