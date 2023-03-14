@@ -27060,5 +27060,179 @@
     "emojis": [],
     "card": null,
     "poll": null
+  },
+  {
+    "id": "110017160350813938",
+    "createdAt": "2023-03-13T17:30:43.058Z",
+    "inReplyToId": null,
+    "inReplyToAccountId": null,
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/adamengst/statuses/110017160350813938",
+    "url": "https://mastodon.social/@adamengst/110017160350813938",
+    "repliesCount": 2,
+    "reblogsCount": 21,
+    "favouritesCount": 35,
+    "editedAt": null,
+    "content": "<p>I thought I’d write quick article about how Dropbox was moving users from its kernel extension to Apple’s File Provider extension, and three _days_ of research later, I ended up with over 3000 words on how what File Provider means for users of cloud storage services like Box, Dropbox, Google Drive, and OneDrive. And still more details continue to trickle in via the comments.</p><p><a href=\"https://tidbits.com/2023/03/10/apples-file-provider-forces-mac-cloud-storage-changes/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tidbits.com/2023/03/10/apples-</span><span class=\"invisible\">file-provider-forces-mac-cloud-storage-changes/</span></a></p>",
+    "reblog": null,
+    "application": {
+      "name": "Mastonaut",
+      "website": "https://www.mastonaut.app"
+    },
+    "account": {
+      "id": "5236",
+      "username": "adamengst",
+      "acct": "adamengst",
+      "displayName": "Adam C. Engst",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "createdAt": "2016-10-07T00:00:00.000Z",
+      "note": "<p>I publish TidBITS and the TidBITS Content Network, serve as president of the Finger Lakes Runners Club, and direct and time numerous races in the Ithaca area.</p>",
+      "url": "https://mastodon.social/@adamengst",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/005/236/original/bbfa53d5a2f4b7f8.jpg",
+      "avatarStatic": "https://files.mastodon.social/accounts/avatars/000/005/236/original/bbfa53d5a2f4b7f8.jpg",
+      "header": "https://mastodon.social/headers/original/missing.png",
+      "headerStatic": "https://mastodon.social/headers/original/missing.png",
+      "followersCount": 642,
+      "followingCount": 145,
+      "statusesCount": 49,
+      "lastStatusAt": "2023-03-13",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "TidBITS",
+          "value": "<a href=\"https://tidbits.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">tidbits.com</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "TCN",
+          "value": "<a href=\"https://tcn.tidbits.com/apple-pros\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">tcn.tidbits.com/apple-pros</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        },
+        {
+          "name": "FLRC",
+          "value": "<a href=\"https://fingerlakesrunners.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">fingerlakesrunners.org</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": null
+        }
+      ]
+    },
+    "mediaAttachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": {
+      "url": "https://tidbits.com/2023/03/10/apples-file-provider-forces-mac-cloud-storage-changes/",
+      "title": "Apple’s File Provider Forces Mac Cloud Storage Changes - TidBITS",
+      "description": "As cloud storage services like Box, Dropbox, Google Drive, and Microsoft OneDrive move from deprecated kernel extensions to Apple’s File Provider extension, Mac users face interface and workflow changes.",
+      "type": "link",
+      "authorName": "",
+      "authorUrl": "",
+      "providerName": "TidBITS",
+      "providerUrl": "",
+      "html": "",
+      "width": 400,
+      "height": 241,
+      "image": "https://files.mastodon.social/cache/preview_cards/images/056/539/916/original/875c91797be5dcc2.png",
+      "embedUrl": "",
+      "blurhash": "U+RVg.pMR*ROoIj?j?j?sjSQa#n#ofoej[fP"
+    },
+    "poll": null
+  },
+  {
+    "id": "110020573668163852",
+    "createdAt": "2023-03-14T07:58:46.146Z",
+    "inReplyToId": null,
+    "inReplyToAccountId": null,
+    "sensitive": false,
+    "spoilerText": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/craigmod/statuses/110020573668163852",
+    "url": "https://mastodon.social/@craigmod/110020573668163852",
+    "repliesCount": 3,
+    "reblogsCount": 6,
+    "favouritesCount": 27,
+    "editedAt": "2023-03-14T08:00:10.910Z",
+    "content": "<p>Meeting Doctor Yellow, an apparently rare and majestic utility Shinkansen.</p>",
+    "reblog": null,
+    "application": {
+      "name": "Ivory for iOS",
+      "website": "https://tapbots.com/"
+    },
+    "account": {
+      "id": "449868",
+      "username": "craigmod",
+      "acct": "craigmod",
+      "displayName": "Craig Mod",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "group": false,
+      "createdAt": "2018-08-17T00:00:00.000Z",
+      "note": "<p>A walking man</p>",
+      "url": "https://mastodon.social/@craigmod",
+      "avatar": "https://files.mastodon.social/accounts/avatars/000/449/868/original/d6409273d189d74d.jpg",
+      "avatarStatic": "https://files.mastodon.social/accounts/avatars/000/449/868/original/d6409273d189d74d.jpg",
+      "header": "https://files.mastodon.social/accounts/headers/000/449/868/original/f5649f5d9637ca9b.jpg",
+      "headerStatic": "https://files.mastodon.social/accounts/headers/000/449/868/original/f5649f5d9637ca9b.jpg",
+      "followersCount": 4271,
+      "followingCount": 94,
+      "statusesCount": 155,
+      "lastStatusAt": "2023-03-14",
+      "noindex": false,
+      "emojis": [],
+      "roles": [],
+      "fields": [
+        {
+          "name": "Homepage",
+          "value": "<a href=\"https://craigmod.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">craigmod.com</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2022-12-12T04:33:10.148+00:00"
+        },
+        {
+          "name": "Newsletters",
+          "value": "<a href=\"https://craigmod.com/newsletters/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\"><span class=\"invisible\">https://</span><span class=\"\">craigmod.com/newsletters/</span><span class=\"invisible\"></span></a>",
+          "verifiedAt": "2022-12-12T04:33:10.296+00:00"
+        }
+      ]
+    },
+    "mediaAttachments": [
+      {
+        "id": "110020573294151473",
+        "type": "image",
+        "url": "https://files.mastodon.social/media_attachments/files/110/020/573/294/151/473/original/994c3ec87bed3f30.jpeg",
+        "previewUrl": "https://files.mastodon.social/media_attachments/files/110/020/573/294/151/473/small/994c3ec87bed3f30.jpeg",
+        "remoteUrl": null,
+        "previewRemoteUrl": null,
+        "textUrl": null,
+        "meta": {
+          "original": {
+            "width": 1247,
+            "height": 1663,
+            "size": "1247x1663",
+            "aspect": 0.7498496692723993
+          },
+          "small": {
+            "width": 415,
+            "height": 554,
+            "size": "415x554",
+            "aspect": 0.7490974729241877
+          }
+        },
+        "description": null,
+        "blurhash": "USFiY_.TS*M}S*XUo#xu8^MwNIbdxAelRPWV"
+      }
+    ],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
   }
 ]
